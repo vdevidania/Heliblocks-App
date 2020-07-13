@@ -30,20 +30,19 @@ Esto mostrará en el inspector del editor de WordPress un selector de color con 
 
 ** --hb-color-***
 
-Se utiliza para definir colores, ejemplo: \`-—hb-color-box-background: #ffffff;\`
+Define your colors, example: \`-—hb-color-box-background: #ffffff;\`
 
 ** --hb-text-***
 
-Se utiliza para definir cadena de texto
-ejemplo: \`-—hb-text-body-family: -apple-system, system-ui, sans-serif;\`
+Define your text strings, example: \`-—hb-text-body-family: -apple-system, system-ui, sans-serif;\`
 
 ** --hb-size-***
 
-Se utiliza para definir tamaños en píxeles, ejemplo: \` -—hb-size-title-size: 45px; \`
+Define your sizes in pixels, example: \` -—hb-size-title-size: 45px; \`
 
 ** --hb-value-***
 
-Se utiliza para definir valores sin unidad, ejemplo: \`-—hb-value-title-line-height: 1.2;\`
+Define your values without units, example: \`-—hb-value-title-line-height: 1.2;\`
 
 ### Define min max values
 
